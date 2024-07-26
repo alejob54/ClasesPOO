@@ -1,0 +1,14 @@
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.AssemblyInfoInputs.cache
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.AssemblyInfo.cs
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.csproj.CoreCompileInputs.cache
+/Users/alejo/Projects/Clase1/Clase1/bin/Debug/net8.0/Clase1
+/Users/alejo/Projects/Clase1/Clase1/bin/Debug/net8.0/Clase1.deps.json
+/Users/alejo/Projects/Clase1/Clase1/bin/Debug/net8.0/Clase1.runtimeconfig.json
+/Users/alejo/Projects/Clase1/Clase1/bin/Debug/net8.0/Clase1.dll
+/Users/alejo/Projects/Clase1/Clase1/bin/Debug/net8.0/Clase1.pdb
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.dll
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/refint/Clase1.dll
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.pdb
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/Clase1.genruntimeconfig.cache
+/Users/alejo/Projects/Clase1/Clase1/obj/Debug/net8.0/ref/Clase1.dll
